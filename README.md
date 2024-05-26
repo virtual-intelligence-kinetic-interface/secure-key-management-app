@@ -1,7 +1,7 @@
 # ![Secure Key Management](https://nodejs.org/static/logos/nodejsDark.svg)
 
 
-> ### Node js + Express codebase containing a sample project (CRUD, auth, advanced patterns, etc) (https://github.com/virtual-intelligence-kinetic-interface/secure-key-management-app.git) spec and API.
+> ### Secure Key Management codebase containing a sample project (CRUD, auth, advanced patterns, etc) (https://github.com/virtual-intelligence-kinetic-interface/secure-key-management-app.git) spec and API.
 
 This codebase is under development, but feel free to add and fork. Add your suggestions.
 
